@@ -144,15 +144,10 @@
     }
 
     .brand-mark {
-      width: 40px;
+      width: 60px;
       height: 40px;
-      border-radius: 14px;
-      display: grid;
-      place-items: center;
-      color: white;
-      font-weight: 900;
-      background: linear-gradient(135deg, var(--primary), #334155);
-      box-shadow: 0 14px 24px rgba(15, 23, 42, 0.18);
+      display: block;
+      object-fit: contain;
     }
 
     nav ul {
